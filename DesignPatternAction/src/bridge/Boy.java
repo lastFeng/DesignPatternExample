@@ -10,7 +10,7 @@ public class Boy {
     private String name;
 
     public void pursue(MM mm) {
-        give(new Ring(), mm);
+        give(new WarmGift(), mm);
     }
 
     public void give(Gift gift, MM mm) {
